@@ -2,7 +2,7 @@
 
 ## Computer Science Core Skills
 
-- Programming
+- Programming : [notes](./core-skills/programming.md) : [reference](https://teachyourselfcs.com/#programming)
 - Computer Architecture
 - Algorithms and Data Structures
 - Math for CS
