@@ -1,5 +1,11 @@
 # programming
 
+## Computer Science 61A, 001 - Spring 2011
+
+### Lecture 1
+
+STk interpreter version 4.0.1
+
 ## Resources
 
 - [Structure and Interpretation of Computer Programs - Book](https://sarabander.github.io/sicp/html/index.xhtml)
