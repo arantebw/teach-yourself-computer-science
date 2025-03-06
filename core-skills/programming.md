@@ -1,0 +1,9 @@
+# programming
+
+## Resources
+
+- [Structure and Interpretation of Computer Programs - Book](https://sarabander.github.io/sicp/html/index.xhtml)
+- [Structure and Interpretation of Computer Programs - Video Lectures](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/)
+- [Computer Science 61A, 001 - Spring 2011](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=title)
+- [Exercism](https://exercism.org)
+- [Composing Programs](https://www.composingprograms.com/)
