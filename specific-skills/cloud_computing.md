@@ -22,6 +22,18 @@
 
 ##### Lexing, Syntax, and Semantics
 
+Lexing (lexical analysis) is a process of converting the code into unique
+sequence of tokens, using a lexer (lexical analyzer).
+
+Parsing (syntax analysis) is a process of checking the grammar of your code by
+going through the sequence of tokens if it follows the rules of the language,
+using parser (syntax analyzer). If nothing went wrong it will create an AST
+(abstract syntax tree), otherwise it will return a syntax error.
+
+Semantic analysis is the process of checking the logical correctness of the
+generated AST by the parser, if nothing went wrong the AST is then passed
+to the compiler/interpreter, otherwise it will return a semantic error.
+
 ##### Python Specifics: Keywords and Instructions
 
 ##### Using the REPL
