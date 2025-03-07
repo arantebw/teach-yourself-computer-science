@@ -52,3 +52,5 @@ Python has no syntax for a block comment.
 treated as an object, so a memory is allocated for it.
 
 ##### Variables and Assignment Operators
+
+##### Strings and String Operators
