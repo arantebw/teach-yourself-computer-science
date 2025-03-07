@@ -1,4 +1,4 @@
-# teach-yourself-computer-science
+# Teach Yourself Computer Science
 
 ## Computer Science Core Skills
 
@@ -14,8 +14,8 @@
 
 ## Specific Skills to Acquire
 
-- Computer Science
 - Software Engineering
 - Machine & Deep Learning
 - Cybersecurity
 - Game Development
+- Cloud Computing

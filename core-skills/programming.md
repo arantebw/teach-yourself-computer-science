@@ -1,4 +1,4 @@
-# programming
+# Programming
 
 ## Computer Science 61A, 001 - Spring 2011
 
