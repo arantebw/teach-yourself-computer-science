@@ -7,7 +7,7 @@
 STk interpreter version 4.0.1
 
 [Install](https://snapcraft.io/install/racket/fedora) `racket` on Fedora. This
-is the modern equivalent the Scheme interpreter `STk`.
+is the modern equivalent of the Scheme interpreter `STk`.
 
 - [Simple Scheme Support Definitions](https://docs.racket-lang.org/manual@simply-scheme/index.html)
 - [Simply Scheme: Introducing Computer Science](https://people.eecs.berkeley.edu/~bh/ss-toc2.html)
